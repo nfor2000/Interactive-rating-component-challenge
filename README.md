@@ -27,8 +27,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  [Live site]([https://your-live-site-url.com](https://nfor2000.github.io/Interactive-rating-component-challenge/))
 
 
 ### Built with
