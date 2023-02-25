@@ -20,9 +20,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Screenshot
 
-![](./screenshot.jpg)
 
+![FireShot Capture 014 - Frontend Mentor - Interactive rating component - ](https://user-images.githubusercontent.com/124421807/221323087-e4f4942c-f8d9-4a6f-9f2a-126d93a624b6.png)
 
+![FireShot Capture 015 - Frontend Mentor - Interactive rating component - ](https://user-images.githubusercontent.com/124421807/221323100-c52167b6-f71a-4a72-b1cf-ecbb11b86cc1.png)
 
 ### Links
 
